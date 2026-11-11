@@ -9,7 +9,9 @@ Links to articles, papers, and writings referenced in Kevin Roose's book *The AG
 
 2019. "Language Models are Unsupervised Multitask Learners", https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
 
-2019. Sutton, Rich. "The Bitter Lesson", http://www.incompleteideas.net/IncIdeas/BitterLesson.html
+2019. Sutton, Rich. "The Bitter Lesson." http://www.incompleteideas.net/IncIdeas/BitterLesson.html
+
+2020. Jared Kaplan, Sam McCandlish, Tom Henighan, Tom B Brown, Benjamin Chess, Rewon Child, Scott Gray, Alec Radford, Jeffrey Wu, Dario Amodei. "Scaling Laws for Neural Language Models."  https://arxiv.org/pdf/2001.08361
 
 2020. David Silver, Demis Hassabis, Ioannis Antonoglou, Julian Schrittwiese. "MuZero: Mastering Go, chess, shogi and Atari without rules." https://deepmind.google/blog/muzero-mastering-go-chess-shogi-and-atari-without-rules/
 
