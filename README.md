@@ -17,3 +17,7 @@ Links to articles, papers, and writings referenced in Kevin Roose's book *The AG
 
 2020. David Silver, Demis Hassabis, Ioannis Antonoglou, Julian Schrittwiese. "MuZero: Mastering Go, chess, shogi and Atari without rules." https://deepmind.google/blog/muzero-mastering-go-chess-shogi-and-atari-without-rules/
 
+2022. Jordan Hoffmann, Sebastian Borgeaud, Arthur Mensch, Elena Buchatskaya, Trevor Cai, Eliza Rutherford, Diego de Las Casas, Lisa Anne Hendricks, Johannes Welbl, Aidan Clark, Tom Hennigan, Eric Noland, Katie Millican, George van den Driessche, Bogdan Damoc, Aurelia Guy, Simon Osindero, Karen Simonyan, Erich Elsen, Jack W. Rae, Oriol Vinyals, Laurent Sifre. "Training Compute-Optimal Large Language Models." https://arxiv.org/pdf/2203.15556
+
+2022. Yuntao Bai, Andy Jones, Kamal Ndousse, Amanda Askell, Anna Chen, Nova DasSarma, Dawn Drain, Stanislav Fort, Deep Ganguli, Tom Henighan, Nicholas Joseph, Saurav Kadavath, Jackson Kernion, Tom Conerly, Sheer El-Showk, Nelson Elhage, Zac Hatfield-Dodds, Danny Hernandez, Tristan Hume, Scott Johnston, Shauna Kravec, Liane Lovitt, Neel Nanda, Catherine Olsson, Dario Amodei, Tom Brown, Jack Clark, Sam McCandlish, Chris Olah, Ben Mann, Jared Kaplan. "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback." https://arxiv.org/pdf/2204.05862
+2023. 
